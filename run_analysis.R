@@ -44,7 +44,7 @@ names(mSDData)<-gsub("-mean()", "Mean", names(mSDData), ignore.case = TRUE)
 names(mSDData)<-gsub("-std()", "StdDev", names(mSDData), ignore.case = TRUE)
 names(mSDData)<-gsub("-freq()", "Frequency", names(mSDData), ignore.case = TRUE)
 
-# Creating a second, independent tidy data set from the above data set
+# Creating a second, independent tidy data set after grouping by subject and activity and averaging
 AvgData <- mSDData %>% group_by(subject, activity) %>% summarize_all(funs(mean))
 
 # Exporting dataset to a local .txt file
