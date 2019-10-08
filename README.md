@@ -6,10 +6,6 @@ This repository contains a submission for the Getting and Cleaning Data course p
 
 It highlights steps for data pre-processing of the UCI Human Activity Recognition dataset.
 
-Dataset
-
-Human Activity Recognition Using Smartphones
-
 Files
 
     CodeBook.md a code book that describes the steps scripted for data pre-processing of the dataset.
