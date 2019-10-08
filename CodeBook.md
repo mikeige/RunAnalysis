@@ -58,5 +58,5 @@ downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FU
 	Creating a second, independent tidy data set from the above data set, with the average of each variable for each activity and each subject
         AvgData (180 rows, 88 columns) is created by grouping mSDData variables by subject and activity and summarizing their means.
     
-	AvgData is then exported via write.table into a file called AvgData.txt
+	AvgData is then exported via write.table into a file called TidyData.txt
 
