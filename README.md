@@ -2,7 +2,7 @@
 
 Peer-graded Assignment: Getting and Cleaning Data Course Project
 
-This repository contains my submission for the Getting and Cleaning Data course project. 
+This repository contains a submission for the Getting and Cleaning Data course project. 
 
 It highlights steps for data pre-processing of the UCI Human Activity Recognition dataset.
 
