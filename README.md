@@ -1,7 +1,4 @@
 # RunAnalysis
-
-Peer-graded Assignment: Getting and Cleaning Data Course Project
-
 This repository contains a submission for the Getting and Cleaning Data course project by Mike Ige. 
 
 It highlights steps for data pre-processing of the UCI Human Activity Recognition dataset.
